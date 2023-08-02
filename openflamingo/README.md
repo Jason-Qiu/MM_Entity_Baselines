@@ -1,4 +1,4 @@
-# 🦩 OpenFlamingo
+# Open-Flamingo
 
 # Installation
 
