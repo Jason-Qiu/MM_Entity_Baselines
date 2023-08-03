@@ -16,6 +16,7 @@ git submodule update --init --recursive
 
 conda activate MMbaseline
 pip install -r requirements.txt
+pip install -e .
 ```
 
 ## Example Usage
