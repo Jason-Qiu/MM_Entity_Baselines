@@ -1,4 +1,4 @@
-# minigpt4
+# All baselines
 
 ## Setup
 
